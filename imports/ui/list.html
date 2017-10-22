@@ -6,8 +6,12 @@
         <h1>Spielplätze in Chemnitz</h1>
         <ul>
         {{#each playgrounds}}
-            <li>{{name}} <i class="star fa fa-star-o"></i></li>
+            {{>listitem}}
         {{/each}}
         </ul>
     </main><!-- /.container -->
 </body>
+
+<template name="listitem">
+    <li>{{name}} <span class="star">★ ({{stars}})</span><span class="map">🔍</span></li>
+</template>

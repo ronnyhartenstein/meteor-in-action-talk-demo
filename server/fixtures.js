@@ -18,7 +18,7 @@ Meteor.startup(() => {
                     let name = item.properties.Name
                     let coordinates = item.geometry.coordinates
                     console.log("fixture", name, coordinates)
-                    Playgrounds.insert({name, coordinates, comments: []})
+                    Playgrounds.insert({name, coordinates, comments: [], stars: 0})
                 })
             }
         })
