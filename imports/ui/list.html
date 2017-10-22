@@ -4,14 +4,29 @@
         <p>You've pressed the button {{counter}} times.</p>
 
         <h1>Spielplätze in Chemnitz</h1>
-        <ul>
-        {{#each playgrounds}}
-            {{>listitem}}
-        {{/each}}
-        </ul>
+        <div class="row">
+            <div class="col-md-8">
+                <input type="text" class="form-control" placeholder="Suchen (RegExp).." name="search" value="{{search}}">
+                <br/>
+
+                <ul class="list-group">
+                {{#each playgrounds}}
+                    {{>listitem}}
+                {{/each}}
+                </ul>
+            </div>
+        </div>
     </main><!-- /.container -->
 </body>
 
 <template name="listitem">
-    <li>{{name}} | <span class="star">★ <strong>{{stars}}</strong> | </span> <span class="map">🔍</span></li>
+    <li class="list-group-item">
+        <div class="pull-right">
+            <span class="star">❤️ <strong>{{stars}}</strong></span>
+            | <span class="map">🔍</span>
+            | <span class="comment">🗣 {{commentsCount}}</span>
+        </div>
+        <h4 class="list-group-item-heading">{{name}}</h4>
+        <p class="list-group-item-text">...</p>
+    </li>
 </template>
