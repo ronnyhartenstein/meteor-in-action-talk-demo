@@ -22,18 +22,6 @@ Template.body.events({
     'click button'(event, instance) {
         instance.counter.set(instance.counter.get() + 1)
     },
-    'click .star'(event) {
-        event.preventDefault()
-
-        const target = event.target
-        const name = target.name
-
-        Meteor.call('playgrounds.star', title.value, (error) => {
-            if (error) {
-                alert(error.error)
-            }
-        })
-    },
 })
 
 Template.listitem.events({
@@ -44,4 +32,15 @@ Template.listitem.events({
         const url = `http://maps.google.com/maps?t=h&q=loc:${v},${h}&z=20 `
         window.open(url)
     },
+    'click .star'() {
+        Playgrounds.update(this._id, {$set: { stars: this.stars + 1 }})
+    }
+    // 'click .commentSubmit'(event) {
+    //
+    //     Meteor.call('playgrounds.comment', this, (error) => {
+    //         if (error) {
+    //             alert(error.error)
+    //         }
+    //     })
+    // },
 })

@@ -3,7 +3,7 @@ import { check } from 'meteor/check'
 import Playgrounds from '../both/playgrounds.js'
 
 Meteor.methods({
-    'Playgrounds.insert'(name) {
+    'playgrounds.comment'(name) {
         check(name, String)
 
         return Playgrounds.insert({
