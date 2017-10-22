@@ -1,0 +1,1571 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.95809612005306,
+                    50.86784889519796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Schneller Markt/Spielplatz",
+                "GRIS_ObjektKZ": "0040",
+                "ID": 1,
+                "Name": "Spielplatz Schneller Markt",
+                "OBJECTID": 1,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9531286173015,
+                    50.8624005829954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Frankenberger Str./Bahnhof Hilbersdorf-Sppl.",
+                "GRIS_ObjektKZ": "0004-01",
+                "ID": 2,
+                "Name": "Spielplatz Bahnhof Hilbersdorf",
+                "OBJECTID": 2,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.942917241672038,
+                    50.8515657536387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Scharnhorstplatz SP",
+                "GRIS_ObjektKZ": "0035-01",
+                "ID": 4,
+                "Name": "Spielplatz Scharnhorstplatz",
+                "OBJECTID": 3,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.94891577711593,
+                    50.84279195862424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Forststr./Dirtstrecke SP",
+                "GRIS_ObjektKZ": "0682-01",
+                "ID": 5,
+                "Name": "Dirtstrecke Forststra\u00dfe",
+                "OBJECTID": 4,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.949756662332135,
+                    50.84400409812422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Forststr./Spielplatz-Zeisigwald",
+                "GRIS_ObjektKZ": "0054",
+                "ID": 6,
+                "Name": "Forststr./Spielplatz-Zeisigwald",
+                "OBJECTID": 5,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9388257607818,
+                    50.83986669570304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Lessingplatz SP",
+                "GRIS_ObjektKZ": "0083-01",
+                "ID": 7,
+                "Name": "Spielplatz Lessingplatz",
+                "OBJECTID": 6,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.93538396908132,
+                    50.83202366479144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Augustusburger Str./\"Bunte G\u00e4rten\"-Funpark-Sppl.",
+                "GRIS_ObjektKZ": "1244-02",
+                "ID": 9,
+                "Name": "Spielplatz Bunte G\u00e4rten Martinstra\u00dfe",
+                "OBJECTID": 7,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.937084427437492,
+                    50.83127802910625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Augustusburger Str./\"Bunte G\u00e4rten\"-Sppl.",
+                "GRIS_ObjektKZ": "1244-01",
+                "ID": 10,
+                "Name": "Spielplatz Bunte G\u00e4rten Tschaikowskistra\u00dfe",
+                "OBJECTID": 8,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.935717134777462,
+                    50.83358052030745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Sonnenstr./Ecke Martinstr. SP",
+                "GRIS_ObjektKZ": "0095",
+                "ID": 11,
+                "Name": "Spielplatz Sonnenstra\u00dfe/Martinstra\u00dfe",
+                "OBJECTID": 9,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.932716820856744,
+                    50.83536076375009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Hainstr.43/Spielplatz",
+                "GRIS_ObjektKZ": "0072",
+                "ID": 12,
+                "Name": "Bolzplatz Hainstra\u00dfe 43",
+                "OBJECTID": 10,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.903070877103916,
+                    50.856196832056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "H\u00f6lderlinstr./Spielplatz",
+                "GRIS_ObjektKZ": "0197",
+                "ID": 15,
+                "Name": "Spielplatz H\u00f6lderlinstra\u00dfe",
+                "OBJECTID": 11,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.88810648155941,
+                    50.848399713718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Botanischer Garten/Crimmitschauer Wald-Sppl.",
+                "GRIS_ObjektKZ": "1192",
+                "ID": 16,
+                "Name": "Spielplatz am Botanischen Garten/Crimmitschauer Wald",
+                "OBJECTID": 12,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.889828567365099,
+                    50.85056791506522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Botanischer Garten/kleiner Sppl.",
+                "GRIS_ObjektKZ": "1193",
+                "ID": 17,
+                "Name": "Spielplatz Botanischer Garten / Tropenhaus",
+                "OBJECTID": 13,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.910306209409358,
+                    50.87256044576969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Park Gl\u00f6sa SP",
+                "GRIS_ObjektKZ": "0204-01",
+                "ID": 18,
+                "Name": "Spielplatz Park Gl\u00f6sa",
+                "OBJECTID": 14,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.925936368316336,
+                    50.879411123532094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": " Genossenschaftsplatz Gl\u00f6sa",
+                "GRIS_ObjektKZ": "0194",
+                "ID": 19,
+                "Name": "Spielplatz am Genossenschaftsplatz",
+                "OBJECTID": 15,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.83319503053289,
+                    50.86065652434848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": " Limbacher Str./Gemeindepark/R\u00f6hrsdorf SP",
+                "GRIS_ObjektKZ": "0861-01",
+                "ID": 20,
+                "Name": "Spielplatz am Gemeindepark/Chemnitzer Stra\u00dfe",
+                "OBJECTID": 16,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.836280860403907,
+                    50.8637181061676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Beethovenweg/Bolzplatz-R\u00f6hrsdorf",
+                "GRIS_ObjektKZ": "0883",
+                "ID": 21,
+                "Name": "Bolzplatz am Beethovenweg",
+                "OBJECTID": 17,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.942491840128637,
+                    50.81071498197104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Gr\u00fcnband SP",
+                "GRIS_ObjektKZ": "0373-01",
+                "ID": 23,
+                "Name": "Spielplatz Gr\u00fcnband",
+                "OBJECTID": 18,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.932760537056044,
+                    50.821667835830745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Rosenplatz SP",
+                "GRIS_ObjektKZ": "0430-01",
+                "ID": 25,
+                "Name": "Spielplatz Rosenplatz",
+                "OBJECTID": 19,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.900631303295707,
+                    50.819400514777996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Lortzingstr./Haydnstr. SP",
+                "GRIS_ObjektKZ": "0305",
+                "ID": 27,
+                "Name": "Spielplatz Lortzingstra\u00dfe/Haydnstra\u00dfe",
+                "OBJECTID": 20,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.93702998741609,
+                    50.82378993474663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Bl\u00fccherplatz SP",
+                "GRIS_ObjektKZ": "0411-01",
+                "ID": 28,
+                "Name": "Spielplatz Bl\u00fccherplatz",
+                "OBJECTID": 21,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.91460961658028,
+                    50.83056693341115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Park am Falkeplatz SP",
+                "GRIS_ObjektKZ": "0090-01",
+                "ID": 30,
+                "Name": "Spielplatz Park am Falkeplatz",
+                "OBJECTID": 22,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.927005691648187,
+                    50.83125119095292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Park der OdF SP",
+                "GRIS_ObjektKZ": "0089-01",
+                "ID": 31,
+                "Name": "Spielplatz im Park der Opfer des Faschismus",
+                "OBJECTID": 23,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.916541877584137,
+                    50.84009093802763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Uferpark SP",
+                "GRIS_ObjektKZ": "1090-01",
+                "ID": 34,
+                "Name": "Spielplatz Uferpark",
+                "OBJECTID": 24,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.917694334461306,
+                    50.83963597257764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Uferpark SP",
+                "GRIS_ObjektKZ": "1090-01",
+                "ID": 34,
+                "Name": "Spielplatz Uferpark",
+                "OBJECTID": 25,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.916101964751359,
+                    50.83951852793749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Uferpark SP",
+                "GRIS_ObjektKZ": "1090-01",
+                "ID": 34,
+                "Name": "Spielplatz Uferpark",
+                "OBJECTID": 26,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.916694897949588,
+                    50.83896849322529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Uferpark SP",
+                "GRIS_ObjektKZ": "1090-01",
+                "ID": 34,
+                "Name": "Spielplatz Uferpark",
+                "OBJECTID": 27,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.923859840653948,
+                    50.83278919802898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Johannisplatz-Sppl.",
+                "GRIS_ObjektKZ": "0091-01",
+                "ID": 37,
+                "Name": "Spielplatz Wallanlage Johannisplatz",
+                "OBJECTID": 28,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.96162517535819,
+                    50.82072134246738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Liddy-Ebersberger-Str./Bolzplatz SP",
+                "GRIS_ObjektKZ": "0432-01",
+                "ID": 40,
+                "Name": "Fu\u00dfballplatz Liddy-Ebersberger-Stra\u00dfe",
+                "OBJECTID": 29,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.879426417639191,
+                    50.83920135411108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Albert-Schweitzer-Str./ Indianerspielplatz SP",
+                "GRIS_ObjektKZ": "0213-01",
+                "ID": 42,
+                "Name": "Spielplatz Albert-Schweitzer-Stra\u00dfe",
+                "OBJECTID": 30,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.884395159304917,
+                    50.83773303246046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Am Karbel/Achatstr.-Spielplatz",
+                "GRIS_ObjektKZ": "0224",
+                "ID": 43,
+                "Name": "Spielplatz Am Karbel/Achatstra\u00dfe",
+                "OBJECTID": 31,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.880284340111407,
+                    50.84129634561807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Flemmingstr./Seitental SP",
+                "GRIS_ObjektKZ": "0235-01",
+                "ID": 44,
+                "Name": "Spielplatz Flemmingstra\u00dfe/Seitental",
+                "OBJECTID": 32,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.890632979126432,
+                    50.83236742222717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Bodelschwinghplatz SP",
+                "GRIS_ObjektKZ": "0296-01",
+                "ID": 45,
+                "Name": "Spielplatz Bodelschwinghplatz",
+                "OBJECTID": 33,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.901827173367337,
+                    50.83593079274659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Andreplatz/Sppl.",
+                "GRIS_ObjektKZ": "0285-01",
+                "ID": 46,
+                "Name": "Spielplatz Andr\u00e9platz",
+                "OBJECTID": 34,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.900998124481024,
+                    50.830174821556604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Gerhart-Hauptmann-Platz-SP-1",
+                "GRIS_ObjektKZ": "0299-01",
+                "ID": 47,
+                "Name": "Spielplatz Gerhart-Hauptmann-Platz/Nord",
+                "OBJECTID": 35,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.90131608639993,
+                    50.82927727354458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Gerhard-Hauptmann-Platz-SP-2",
+                "GRIS_ObjektKZ": "0299-02",
+                "ID": 48,
+                "Name": "Spielplatz Gerhart-Hauptmann-Platz/S\u00fcd",
+                "OBJECTID": 36,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.911976712689343,
+                    50.84071589433025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Schlo\u00dfteichanlagen-Insel-Sppl.",
+                "GRIS_ObjektKZ": "0038-01",
+                "ID": 50,
+                "Name": "Spielplatz Schlo\u00dfteichinsel",
+                "OBJECTID": 37,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.91057789828368,
+                    50.84525233887061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Schlo\u00dfplatz SP",
+                "GRIS_ObjektKZ": "0037-01",
+                "ID": 52,
+                "Name": "Spielplatz Schlo\u00dfplatz",
+                "OBJECTID": 38,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.919983272748208,
+                    50.85003242479908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Sch\u00f6nherrpark-SP",
+                "GRIS_ObjektKZ": "0041-01",
+                "ID": 53,
+                "Name": "Spielplatz Sch\u00f6nherrpark",
+                "OBJECTID": 39,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.903272925238097,
+                    50.842145325000004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Luisenplatz SP",
+                "GRIS_ObjektKZ": "0203-01",
+                "ID": 55,
+                "Name": "Spielplatz Luisenplatz",
+                "OBJECTID": 40,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.905704681617227,
+                    50.84840935892049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwaldpark/Sppl.",
+                "GRIS_ObjektKZ": "0199",
+                "ID": 56,
+                "Name": "Spielplatz K\u00fcchwald",
+                "OBJECTID": 41,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.909189623260438,
+                    50.84787842546344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwaldpark Bf-Parkeisenbahn SP",
+                "GRIS_ObjektKZ": "0198-01",
+                "ID": 57,
+                "Name": "Spielplatz K\u00fcchwald/Parkeisenbahn",
+                "OBJECTID": 42,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.911018808839234,
+                    50.84799639366539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 43,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.909218473836189,
+                    50.84814659412847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 44,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.907769465660625,
+                    50.8487848512768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 45,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.906397007259049,
+                    50.85044014212232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 46,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9054116443835,
+                    50.851430458368384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 47,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.904741755059904,
+                    50.852323680662366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 48,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.90402458182207,
+                    50.85289861378156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 49,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.903527140586155,
+                    50.85349051517428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "K\u00fcchwald/Spielmeile",
+                "GRIS_ObjektKZ": "1176",
+                "ID": 58,
+                "Name": "Spielmeile K\u00fcchwald",
+                "OBJECTID": 50,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.908036539028698,
+                    50.83932106314612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Konkordiapark SP",
+                "GRIS_ObjektKZ": "0633-01",
+                "ID": 59,
+                "Name": "Skatepark im Konkordiapark",
+                "OBJECTID": 51,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.927153721150216,
+                    50.85309409991813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Park Chemnitzaue-Sppl.",
+                "GRIS_ObjektKZ": "0816-01",
+                "ID": 60,
+                "Name": "Freizeiteinrichtung im Park Chemnitzaue",
+                "OBJECTID": 52,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.97975828679364,
+                    50.80395137410696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Walter-Janka-Str./gegen\u00fcb.HNR.:23-SP",
+                "GRIS_ObjektKZ": "1199-01",
+                "ID": 61,
+                "Name": "Bolzplatz Walter-Janka-Stra\u00dfe",
+                "OBJECTID": 53,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.98481187158844,
+                    50.812190771345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Otto-Th\u00f6rner-Str. SP",
+                "GRIS_ObjektKZ": "1266-01",
+                "ID": 62,
+                "Name": "Spielplatz Otto-Th\u00f6rner-Stra\u00dfe",
+                "OBJECTID": 54,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.941585184933492,
+                    50.76541145439586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Berbisdorfer Kirchweg SP",
+                "GRIS_ObjektKZ": "1267",
+                "ID": 64,
+                "Name": "Spielplatz Berbisdorfer Kirchweg",
+                "OBJECTID": 55,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.974115396458537,
+                    50.76826948739768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Walter-Wieland-Hain SP",
+                "GRIS_ObjektKZ": "0728-01",
+                "ID": 65,
+                "Name": "Spielplatz Walter-Wieland-Hain",
+                "OBJECTID": 56,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.022056121351598,
+                    50.83698010471129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Am Lehngut/Am Sportplatz SP",
+                "GRIS_ObjektKZ": "0424-01",
+                "ID": 67,
+                "Name": "Spielplatz am Sportplatz Euba",
+                "OBJECTID": 57,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.888063984213431,
+                    50.768524670128436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Wasserschlo\u00df Klaffenbach SP",
+                "GRIS_ObjektKZ": "0838-01",
+                "ID": 69,
+                "Name": "Wasserschlo\u00df Klaffenbach",
+                "OBJECTID": 58,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.003817871883859,
+                    50.80021517637414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Gartenstadt-Nord/Johannes-Ebert-Str. SP",
+                "GRIS_ObjektKZ": "0753-01",
+                "ID": 72,
+                "Name": "Spielplatz Johannes-Ebert-Stra\u00dfe",
+                "OBJECTID": 59,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.997896693647828,
+                    50.798605065180375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Goethering(Kleinolbersdorf) SP",
+                "GRIS_ObjektKZ": "0724-01",
+                "ID": 73,
+                "Name": "Freizeiteinrichtung Goethering",
+                "OBJECTID": 60,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.947832585906008,
+                    50.792907962784845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Reichenhainer M\u00fchlberg/Spielplatz",
+                "GRIS_ObjektKZ": "0797",
+                "ID": 74,
+                "Name": "Spielplatz Reichenhainer M\u00fchlberg",
+                "OBJECTID": 61,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.903527055071432,
+                    50.81109798598823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Stadtpark-Mittelbauhof-Sppl.",
+                "GRIS_ObjektKZ": "0311-09",
+                "ID": 75,
+                "Name": "Spielplatz am Stadtpark/Otto-Werner-Garten",
+                "OBJECTID": 62,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.904237040073125,
+                    50.80123576390947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Stadtpark-Gro\u00dfer-Teich-Sppl.",
+                "GRIS_ObjektKZ": "0311-08",
+                "ID": 76,
+                "Name": "Spielplatz Stadtpark/Gro\u00dfer Teich",
+                "OBJECTID": 63,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.879694992184838,
+                    50.782085802897576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Marie-Tilch-Str./Spiel-u.Freizeittreff-SP",
+                "GRIS_ObjektKZ": "0707-01",
+                "ID": 79,
+                "Name": "Freizeitanlage Marie-Tilch-Stra\u00dfe",
+                "OBJECTID": 64,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.88044705622363,
+                    50.78513726738176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Joh.-Dick-Str./Fu\u00dfg\u00e4ngerzone(\"Gr\u00fcnes R\u00fcckgrat Hutholz\") - SP",
+                "GRIS_ObjektKZ": "0700-01",
+                "ID": 81,
+                "Name": "Bolzplatz J.-Dick-Stra\u00dfe/Fu\u00dfg\u00e4ngerzone",
+                "OBJECTID": 65,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.885004423843874,
+                    50.80781046853821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Str.Usti nad Labem 119-125-Sppl.",
+                "GRIS_ObjektKZ": "0565-01",
+                "ID": 83,
+                "Name": "Spielplatz Stra\u00dfe Usti nad Labem 119-125",
+                "OBJECTID": 66,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.881412283827157,
+                    50.80842048814565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Str.Usti nad Labem/BMX-Bahn/Spielplatz",
+                "GRIS_ObjektKZ": "0564",
+                "ID": 84,
+                "Name": "BMX-Bahn/Bolzplatz Stra\u00dfe Usti nad Labem",
+                "OBJECTID": 67,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.883115569120813,
+                    50.80740298138423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Str.Usti nad Labem 199-209-Sppl.",
+                "GRIS_ObjektKZ": "0568-01",
+                "ID": 85,
+                "Name": "Spielplatz Stra\u00dfe Usti nad Labem 199-209",
+                "OBJECTID": 68,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.908492287246624,
+                    50.78876364923856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Am Hochfeld/Sppl.",
+                "GRIS_ObjektKZ": "0283",
+                "ID": 87,
+                "Name": "Spielplatz am Hochfeld",
+                "OBJECTID": 69,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.899375659314016,
+                    50.79738832853766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Robert-Siewert-Str.48 SP",
+                "GRIS_ObjektKZ": "0594-01",
+                "ID": 88,
+                "Name": "Spielplatz Robert-Siewert-Stra\u00dfe 48",
+                "OBJECTID": 70,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.903063495863831,
+                    50.78508853346548
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Am Harthwald 96 SP",
+                "GRIS_ObjektKZ": "0660-01",
+                "ID": 89,
+                "Name": "Spielplatz am Harthwald",
+                "OBJECTID": 71,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.900192202960163,
+                    50.78687972363653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Alfred-Neubert-Str./Fu\u00dfg\u00e4ngerboulevard-Sppl.",
+                "GRIS_ObjektKZ": "0666-01",
+                "ID": 90,
+                "Name": "Bolzplatz Alfred-Neubert-Stra\u00dfe",
+                "OBJECTID": 72,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.89803814097958,
+                    50.782590133854406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Chemnitzer Str./neben Kita Nr.55- Spielplatz",
+                "GRIS_ObjektKZ": "0734",
+                "ID": 92,
+                "Name": "Skateboardanlage Chemnitzer Stra\u00dfe / neben Kindertagesst\u00e4tte",
+                "OBJECTID": 73,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.900937718173711,
+                    50.78987433668231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Arno-Schreiter-Str./Sppl.neben Kindertagesst\u00e4tte",
+                "GRIS_ObjektKZ": "0663",
+                "ID": 93,
+                "Name": "Spielplatz Arno-Schreiter-Stra\u00dfe",
+                "OBJECTID": 74,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.899126735802726,
+                    50.782327334645935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Chemnitzer Str./gegen\u00fcb.Kaufland SP",
+                "GRIS_ObjektKZ": "0742-01",
+                "ID": 94,
+                "Name": "Spielplatz Chemnitzer Stra\u00dfe gegen\u00fcber Kaufland",
+                "OBJECTID": 75,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.768987387266085,
+                    50.81334420924398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Bergstr./Bolzplatz (Gr\u00fcna)",
+                "GRIS_ObjektKZ": "0916",
+                "ID": 97,
+                "Name": "Bolzplatz Bergstra\u00dfe Gr\u00fcna",
+                "OBJECTID": 76,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.79751810095831,
+                    50.81293615972542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Chemnitzer Str./Parkanlage neben Kulturhaus (Gr\u00fcna) SP",
+                "GRIS_ObjektKZ": "0917-01",
+                "ID": 98,
+                "Name": "Spielplatz Chemnitzer Stra\u00dfe / Parkanlage",
+                "OBJECTID": 77,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.794983816628442,
+                    50.79934930668232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Mittelbacher Dorfstra\u00dfe/Sppl.",
+                "GRIS_ObjektKZ": "0935",
+                "ID": 99,
+                "Name": "Spielplatz Dorfstra\u00dfe",
+                "OBJECTID": 78,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.836032477963089,
+                    50.82877341278852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Hans-Carl-von-Carlowitz-Park-SP",
+                "GRIS_ObjektKZ": "0500-01",
+                "ID": 100,
+                "Name": "Spielplatz im Hans-Carl-von-Carlowitz-Park",
+                "OBJECTID": 79,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.835232777476117,
+                    50.80959145460102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Talstra\u00dfe/Spielplatz",
+                "GRIS_ObjektKZ": "0514",
+                "ID": 103,
+                "Name": "Spielplatz Talstra\u00dfe",
+                "OBJECTID": 80,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.820244534120015,
+                    50.809552443949094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Karl-Seibt-Str./Sppl. SP",
+                "GRIS_ObjektKZ": "1159-01",
+                "ID": 104,
+                "Name": "Spielplatz Karl-Seibt-Stra\u00dfe",
+                "OBJECTID": 81,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.833331947863265,
+                    50.81819695056233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Pelzm\u00fchle/Spielplatz-Sppl.",
+                "GRIS_ObjektKZ": "1036-01",
+                "ID": 105,
+                "Name": "Spielplatz Pelzm\u00fchle",
+                "OBJECTID": 82,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.863108674678207,
+                    50.817545333481505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Robert-Blum-Platz SP",
+                "GRIS_ObjektKZ": "0507-01",
+                "ID": 106,
+                "Name": "Spielplatz Robert-Blum-Platz",
+                "OBJECTID": 83,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.87448219409507,
+                    50.82231405501177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Park Sch\u00f6nau SP",
+                "GRIS_ObjektKZ": "0501-01",
+                "ID": 107,
+                "Name": "Spielplatz im Park Sch\u00f6nau",
+                "OBJECTID": 84,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.8694425190632,
+                    50.81671648482516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "Stelzendorfer Str./neben Br\u00fccke DR/Sportplatz-Sppl.",
+                "GRIS_ObjektKZ": "0810-01",
+                "ID": 108,
+                "Name": "Sch\u00f6nauer Spiel- und Bolzplatz Stelzendorfer Stra\u00dfe",
+                "OBJECTID": 85,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.844027531877638,
+                    50.81831318968052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": " Park Siegmar",
+                "GRIS_ObjektKZ": "0511",
+                "ID": 109,
+                "Name": "Spielplatz im Park Siegmar",
+                "OBJECTID": 86,
+                "Status": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.898978687029436,
+                    50.78546697807632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "GRIS_ObjektBez": "A.-Neubert-Str.24/SPPL",
+                "GRIS_ObjektKZ": "0665",
+                "ID": 112,
+                "Name": "Spielplatz Alfred-Neubert-Stra\u00dfe 24",
+                "OBJECTID": 87,
+                "Status": 10
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

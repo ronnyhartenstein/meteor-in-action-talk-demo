@@ -1,0 +1,13 @@
+<body>
+    <main role="main" class="container">
+        <button>Click Me</button>
+        <p>You've pressed the button {{counter}} times.</p>
+
+        <h1>Spielplätze in Chemnitz</h1>
+        <ul>
+        {{#each playgrounds}}
+            <li>{{name}} <i class="star fa fa-star-o"></i></li>
+        {{/each}}
+        </ul>
+    </main><!-- /.container -->
+</body>
