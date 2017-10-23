@@ -1,0 +1,20 @@
+<template name="listitem">
+    <li class="list-group-item">
+        <div class="pull-right">
+            <span class="star">❤️ <strong>{{stars}}</strong></span>
+            | <span class="map">🔍</span>
+            | <span class="commentsSwitch">🗣 {{commentsCount}}</span>
+        </div>
+        <h4 class="list-group-item-heading">{{name}}</h4>
+        <div class="list-group-item-text comments hidden">
+            {{#each comments}}
+                 <i>{{autor}}</i>: {{text}} <small>{{formatCreatedAt}}</small><br/>
+            {{/each}}
+            <form class="newComment row">
+                <div class="col-sm-3"><input type="text" required name="autor" class="form-control" placeholder="Dein Name?"></div>
+                <div class="col-sm-6"><input type="text" required name="text" class="form-control" placeholder="Dein Kommentar?"></div>
+                <div class="col-sm-3"><button class="commentSubmit btn btn-block btn-sm btn-primary">Absenden</button></div>
+            </form>
+        </div>
+    </li>
+</template>

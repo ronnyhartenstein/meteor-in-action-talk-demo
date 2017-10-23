@@ -1,0 +1,6 @@
+.commentsSwitch, .star {
+  cursor: pointer;
+}
+.comments small {
+  color: gray;
+}

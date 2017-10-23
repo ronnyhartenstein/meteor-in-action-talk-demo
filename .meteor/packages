@@ -20,3 +20,4 @@ blaze-html-templates
 insecure
 twbs:bootstrap
 less
+momentjs:moment
