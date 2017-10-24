@@ -21,3 +21,5 @@ insecure
 twbs:bootstrap
 less
 momentjs:moment
+accounts-ui
+accounts-password

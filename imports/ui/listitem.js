@@ -12,8 +12,14 @@ Template.listitem.helpers({
         return this.comments.length
     },
     formatCreatedAt() {
-        return this.createdAt ? '('+moment(this.createdAt).calendar()+')' : ''
+        return this.createdAt ? moment(this.createdAt).calendar() : ''
     },
+    loggedIn() {
+        return !!Meteor.userId()
+    },
+    userEmail() {
+        return Meteor.user() ? Meteor.user().emails[0].address : '?'
+    }
 })
 
 Template.listitem.events({

@@ -1,20 +1,34 @@
 <template name="listitem">
     <li class="list-group-item">
-        <div class="pull-right">
-            <span class="star">❤️ <strong>{{stars}}</strong></span>
-            | <span class="map">🔍</span>
-            | <span class="commentsSwitch">🗣 {{commentsCount}}</span>
+        <div class="pull-right btn-group" role="group">
+            <button class="btn btn-sm btn-default star">❤️ {{stars}}</button>
+            <button class="btn btn-sm btn-default map">🔍</button>
+            <button class="btn btn-sm btn-default commentsSwitch">🗣 {{commentsCount}}</button>
         </div>
         <h4 class="list-group-item-heading">{{name}}</h4>
+        <div class="clearfix"></div>
         <div class="list-group-item-text comments hidden">
+            <div class="list-group">
             {{#each comments}}
-                 <i>{{autor}}</i>: {{text}} <small>{{formatCreatedAt}}</small><br/>
+                <div class="list-group-item">
+                    <i>{{autor}}</i>: {{text}}
+                    <div class="pull-right"><small>{{formatCreatedAt}}</small></div>
+                </div>
             {{/each}}
-            <form class="newComment row">
-                <div class="col-sm-3"><input type="text" required name="autor" class="form-control" placeholder="Dein Name?"></div>
-                <div class="col-sm-6"><input type="text" required name="text" class="form-control" placeholder="Dein Kommentar?"></div>
-                <div class="col-sm-3"><button class="commentSubmit btn btn-block btn-sm btn-primary">Absenden</button></div>
-            </form>
+                <div class="list-group-item">
+                    <form class="newComment row">
+                        <div class="col-sm-3">
+                            {{#if loggedIn}}
+                                <input type="text" disabled name="autor" class="form-control" value="{{userEmail}}">
+                            {{else}}
+                                <input type="text" required name="autor" class="form-control" placeholder="Dein Name?">
+                            {{/if}}
+                        </div>
+                        <div class="col-sm-6"><input type="text" required name="text" class="form-control" placeholder="Dein Kommentar?"></div>
+                        <div class="col-sm-3"><button class="commentSubmit btn btn-block btn-sm btn-primary">Absenden</button></div>
+                    </form>
+                </div>
+            </div>
         </div>
     </li>
 </template>
